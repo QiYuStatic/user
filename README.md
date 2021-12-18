@@ -1,0 +1,2 @@
+# user
+static asset
